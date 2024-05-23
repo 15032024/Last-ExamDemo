@@ -1,0 +1,51 @@
+.card-1 {
+ background-image: url("https://preview.colorlib.com/theme/coloshop/images/banner_1.jpg");
+    .card-title {
+
+        h2 {
+            color: white;
+            text-align: center;
+            //   padding: 10px;
+            width: 100%;
+            width: 100%;
+        }
+    }
+
+}
+
+.card-2 {
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/banner_2.jpg");
+
+    .card-title {
+
+        h2 {
+            // padding: 10px;
+            color: white;
+            text-align: center;
+
+        }
+    }
+
+}
+
+.card-3 {
+
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/banner_3.jpg");
+
+    .card-title {
+
+        h2 {
+            // padding: 5px;
+           color: white;
+            text-align: center;
+        }
+    }
+
+}
+
+.card {
+    padding: 10rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

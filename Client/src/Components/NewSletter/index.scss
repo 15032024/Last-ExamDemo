@@ -1,0 +1,18 @@
+.newsletter {
+
+    text-align: center;
+        padding: 20px;
+        display:"flex";
+        align-items: "center";
+        input{
+            padding: 20px 60px;
+         
+        }
+        button{
+            padding: 20px 60px;
+            background-color:#fe4c50 ;
+            color: white;
+            cursor: pointer;
+            border: 1px solid red;
+        }
+}

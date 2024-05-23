@@ -1,0 +1,58 @@
+header {
+
+    .coloshop {
+        span {
+            color: #fe4c50;
+        }
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 5rem;
+
+        .coloshop-nav {
+
+            nav {
+                ul {
+                    display: flex;
+                    gap: 20px;
+
+                }
+            }
+        }
+
+        .colo-icons {
+            display: flex;
+            gap: 20px;
+            font-size: 1.2rem;
+        }
+       
+    }
+
+
+    @media only screen and (max-width:768px) {
+        .coloshop-nav {
+            display: none;
+
+         
+        }
+
+
+        .colo-icons{
+
+
+
+
+
+            @media only screen and (max-width: 768px) {
+                
+                .colo-icons{
+                    display: none;
+                }
+            .icons{
+                display: none;
+            }
+            }
+        }
+    }
+}

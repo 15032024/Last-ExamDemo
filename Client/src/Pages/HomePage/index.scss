@@ -1,0 +1,37 @@
+#colo-discount{
+
+ background-image: url("https://preview.colorlib.com/theme/coloshop/images/slider_1.jpg");
+background-repeat: no-repeat;
+background-position: center;
+padding: 10rem 10rem;
+background-size: contain;
+
+
+.coloshop-discount{
+    
+    padding: 10px;
+    p{
+        margin: 10px 0;
+        color: #28287b;
+    }
+    h2{
+        font-size: 3rem;
+        margin: 10px 0;
+        color: #fe4c50;
+    }
+  
+    button{
+        margin: 10px 0;
+        padding: 15px;
+        color: white;
+        background-color: #fe4c50;
+        border: 1px solid red;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+}
+}
+
+#arrivals{
+    margin: 50px 0;
+}
